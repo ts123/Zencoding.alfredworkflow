@@ -14,3 +14,8 @@ Zencoding.alfredworkflow
 - zencoding module
  - https://github.com/davegb3/ZenCoding-Python
 
+## Reference Links
+
+- 短いスパゲッティは絡まない • Zen-Codingをコマンドラインから
+ - http://short-spaghetti.tumblr.com/post/35339591752/zen-coding
+
