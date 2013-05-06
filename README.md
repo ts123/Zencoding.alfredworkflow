@@ -10,7 +10,7 @@ Zencoding.alfredworkflow
 ## Dependencies
 
 - alfred.py
- - https://github.com/phyllisstein/alp
+ - https://github.com/nikipore/alfred-python
 - zencoding module
  - https://github.com/davegb3/ZenCoding-Python
 
